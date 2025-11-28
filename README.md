@@ -27,11 +27,12 @@ The site is deployed on render.
     ```json
     {
       "is_success": true,
-      "user_id": "john_doe_17091999",
-      "email": "john@xyz.com",
-      "roll_number": "ABCD123",
-      "numbers": [],
-      "alphabets": ["A", "C", "z"],
+      "page no : string",
+      "item name : string",
+      "item amount :float",
+      "item name : float",
+       "item quantity :float",
+     "alphabets": ["A", "C", "z"],
       "highest_lowercase_alphabet": ["z"]
     }
     ```
